@@ -18,7 +18,7 @@ interface MemoryCard {
 
 const memories: MemoryCard[] = [
   {
-    image: "/1.JPG",
+    image: "/1.jpg",
     title: "First Memory",
     // description: "This is our first memory together. A beautiful moment that started it all.",
     description: "ไม่มีอะ รูปนี้ละกัน",
@@ -49,7 +49,7 @@ const memories: MemoryCard[] = [
     description: "อร่อยไหมม",
   },
   {
-    image: "/7.JPG",
+    image: "/7.jpg",
     title: "When you were a child",
     description: "ตัวน้อยยยย",
   },
